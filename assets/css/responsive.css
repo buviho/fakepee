@@ -1,0 +1,6 @@
+@media(max-width: 1023px){
+    :root{
+        --header-height: 68px;
+        --header-navbar-height: 0px;
+    }
+}
